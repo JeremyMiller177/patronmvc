@@ -45,7 +45,6 @@ namespace Patrón_MVC
             }
         }
 
-        // Vista (View)
         public class UsuarioView
         {
             public void ImprimirDetallesUsuario(string nombre, int edad)
