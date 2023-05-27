@@ -54,7 +54,6 @@ namespace Patrón_MVC
             }
         }
 
-        // Clase principal para probar la implementación
         class Program
         {
         public Program()
