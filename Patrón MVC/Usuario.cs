@@ -8,7 +8,6 @@ namespace Patrón_MVC
             public int Edad { get; set; }
         }
 
-        // Controlador (Controller)
         public class UsuarioController
         {
             private Usuario modelo;
